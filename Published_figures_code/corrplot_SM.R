@@ -1,5 +1,5 @@
 #!/bin/Rscript
-#makes Supplementary Fig. 13, Roman paper
+#makes Supplementary Fig. 13, IBS correlogram, Roman paper
 
 svg(file="new_corrplot_SM.svg")
 require(corrplot)
